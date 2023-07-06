@@ -1,2 +1,1 @@
-# deep-stream.github.io 
-## as an online asset hosting server
+# an online assets hosting server
